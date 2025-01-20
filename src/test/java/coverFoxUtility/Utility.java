@@ -34,7 +34,7 @@ public class Utility
 	{
 		FileInputStream myfile = new FileInputStream(filepath);
 		String value = WorkbookFactory.create(myfile).getSheet(Sheetnum).getRow(rownum).getCell(cellnum)
-				.getStringCellValue();
+				.getStringCellValue(); 
 		return value;
 	}
 
