@@ -97,3 +97,25 @@
 2024-08-16 19:52:54,752 - CoverFox -INFO - validateBanners
 2024-08-16 19:52:59,843 - CoverFox -INFO - validatePresentOfSortButton
 2024-08-16 19:52:59,903 - CoverFox -INFO - close browser
+2024-08-19 08:17:00,513 - CoverFox -INFO - open Browser
+2024-08-19 08:17:10,147 - CoverFox -INFO - clickOnGenderButton
+2024-08-19 08:17:11,733 - CoverFox -INFO - clickOnNextButton
+2024-08-19 08:17:12,838 - CoverFox -WARN - age beetween 18 to 75
+2024-08-19 08:17:13,138 - CoverFox -INFO - clickOnNextButton
+2024-08-19 08:17:14,225 - CoverFox -WARN - Enter Right Pin Code
+2024-08-19 08:17:14,383 - CoverFox -WARN - Enter Right MobileNumber 
+2024-08-19 08:17:14,538 - CoverFox -INFO - Click On Contineu Button
+2024-08-19 08:17:15,009 - CoverFox -INFO - validateBanners
+2024-08-19 08:17:20,386 - CoverFox -INFO - validatePresentOfSortButton
+2024-08-19 08:17:20,452 - CoverFox -INFO - close browser
+2024-09-12 16:31:23,231 - CoverFox -INFO - open Browser
+2024-09-12 16:31:29,324 - CoverFox -INFO - clickOnGenderButton
+2024-09-12 16:31:30,977 - CoverFox -INFO - clickOnNextButton
+2024-09-12 16:31:32,062 - CoverFox -WARN - age beetween 18 to 75
+2024-09-12 16:31:32,369 - CoverFox -INFO - clickOnNextButton
+2024-09-12 16:31:33,511 - CoverFox -WARN - Enter Right Pin Code
+2024-09-12 16:31:33,670 - CoverFox -WARN - Enter Right MobileNumber 
+2024-09-12 16:31:33,789 - CoverFox -INFO - Click On Contineu Button
+2024-09-12 16:31:33,921 - CoverFox -INFO - validateBanners
+2024-09-12 16:31:38,960 - CoverFox -INFO - validatePresentOfSortButton
+2024-09-12 16:31:38,976 - CoverFox -INFO - close browser

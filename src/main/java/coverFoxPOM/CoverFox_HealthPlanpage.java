@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 public class CoverFox_HealthPlanpage 
 {
 //data member
-@FindBy(className ="next-btn" )	WebElement next_btn;
+@FindBy(className ="next-btn" )private	WebElement next_btn;
 	
 //constructor	
 public CoverFox_HealthPlanpage(WebDriver driver) 

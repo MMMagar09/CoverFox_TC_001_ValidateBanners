@@ -47,7 +47,7 @@ public class CoverFox_TestBaseUtility_Listner extends Base {
 		resultPage = new coverFoxResultPage(driver);
 
 		filePath = System.getProperty("user.dir") + "\\CoverFoxData.properties";
-	}
+	                 }
 
 	@BeforeClass
 	public void preConditions() throws EncryptedDocumentException, IOException, InterruptedException {

@@ -7,6 +7,7 @@
         <methods>
           <include name="validatePresentOfSortButton"/>
           <include name="launchBrowser"/>
+          <include name="validateBanners"/>
           <include name="preConditions"/>
           <include name="closeTestCase"/>
         </methods>
